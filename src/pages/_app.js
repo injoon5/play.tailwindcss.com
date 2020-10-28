@@ -1,7 +1,7 @@
 import '../css/main.css'
 import Head from 'next/head'
 
-const URL = 'https://play.tailwindcss.com'
+const URL = 'https://playtailwind.vercel.app/'
 const TITLE = 'Tailwind Play'
 const DESCRIPTION =
   "An advanced online playground for Tailwind CSS that lets you use all of Tailwind's build-time features directly in the browser."
